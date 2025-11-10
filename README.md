@@ -1,0 +1,2 @@
+# mssqltips
+MSSQL Tips Scripts
